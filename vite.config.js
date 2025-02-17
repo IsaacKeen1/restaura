@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+  base: "/restaura/" // Add this line to match your repo name
 })
