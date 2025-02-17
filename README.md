@@ -1,5 +1,7 @@
 # Restaura - Mock Restaurant Landing Page
 
+Site: https://isaackeen1.github.io/restaura/
+
 ## Overview
 
 Restaura is a mock restaurant landing page built using React, Tailwind CSS, and Framer Motion. This project showcases a visually appealing and interactive design with smooth animations and an engaging user experience. The landing page includes sections like a hero section, dishes showcase, about us, mission statement, customer reviews, and contact information.
@@ -27,3 +29,6 @@ Frontend: React + Vite
 Styling: Tailwind CSS
 
 Animations: Framer Motion
+
+### Tutorial/Inspo
+https://www.youtube.com/watch?v=Wtm_VyuPssk
